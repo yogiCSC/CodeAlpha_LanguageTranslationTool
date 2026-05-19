@@ -58,13 +58,13 @@ python -m streamlit run app.py
 ## 📸 Screenshots
 
 ### Home Page
-![Home](Screenshots/home.png)
+![Home](../Screenshots/home.png)
 
 ### Translation Process
-![Translate](Screenshots/translate.png)
+![Translate](../Screenshots/translate.png)
 
 ### Output
-![Output](Screenshots/output.png)
+![Output](../Screenshots/output.png)
 
 ---
 
